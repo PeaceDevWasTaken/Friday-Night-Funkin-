@@ -1,24 +1,2 @@
-
-<h1 align="center" style="font-size: 22px">  fnf  </h1>
-  <iframe src="https://html-classic.itch.zone/html/2876359-1000879/index.html" width="800" height="600" style="border:none; position: fixed; top: 10%; left: 50%; transform: translate(-50%, -10%); z-index: 1000;"></iframe>
-</li>
-<br><br>
-<h2 align="center" style="font-size: 22px"> My tech stack </h2>
-<br>
-
-
-
-<div align="center"><p>
-  
-<p>
-<br><br>
-</div>
-<h2 align="center" style="font-size: 22px"> hi</h2>
-  <p align="center">
-    <br>
-    <li><b>a:</b> b</li>
-    <li><b>a:</b> hello</li>
-  </p>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/rambiing/rambiing/blob/main/cirno.gif?raw=true](https://html-classic.itch.zone/html/2876359-1000879/index.html)');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 100px; width: 1000px; animation: 0.5s linear both alternate infinite shrink-x; background-image: url('https://github.com/rambiing/rambiing/blob/main/fumo.png?raw=true');]{x0000}$}
+[1:13 AM]
