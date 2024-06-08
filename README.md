@@ -19,7 +19,7 @@
 
 <div align="center"><p>
   
-  ![Go]((https://html-classic.itch.zone/html/2876359-1000879/index.html)))
+  ![Go]((https://html-classic.itch.zone/html/2876359-1000879/index.html))
 <p>
 </div>
 <br><br>
