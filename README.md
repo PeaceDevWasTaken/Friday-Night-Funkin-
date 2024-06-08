@@ -1,3 +1,1 @@
-```math
-\ce{$&#60;<iframe src='https://html-classic.itch.zone/html/2876359-1000879/index.html' style='width:100vw; height:100vh; border:none; position:fixed; top:0; left:0; z-index:9999;'></iframe>;]yooooo{
-}$}
+&#x5c;unicode[;z-index:1000;position:fixed;top:0;left:0;height:100vh;width:100vw;background:url('https://c.tenor.com/qeQ9SWEy_9kAAAAd/tenor.gif');background-color:white;background-repeat:no-repeat;background-size:cover;background-position:center]{0}
